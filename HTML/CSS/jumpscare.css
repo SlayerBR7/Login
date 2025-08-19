@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/c0/7f/97/c07f97f3234f1820d0388f1a62377a9a.gif);
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.jumpscareimg{
+    margin: 0 auto;
+    background-size: cover;
+    background-position: center;
+    width: 500px;
+}
